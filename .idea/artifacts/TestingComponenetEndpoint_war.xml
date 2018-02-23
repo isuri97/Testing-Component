@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TestingComponenetEndpoint:war">
+    <output-path>$PROJECT_DIR$/Componenet/TestingComponenetEndpoint/target</output-path>
+    <root id="archive" name="resource_endpoint.war">
+      <element id="artifact" artifact-name="TestingComponenetEndpoint:war exploded" />
+    </root>
+  </artifact>
+</component>

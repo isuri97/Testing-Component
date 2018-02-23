@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TesterComponent.iml" filepath="$PROJECT_DIR$/TesterComponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Componenet/TestingComponenetEndpoint/TestingComponenetEndpoint.iml" filepath="$PROJECT_DIR$/Componenet/TestingComponenetEndpoint/TestingComponenetEndpoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Componenet/TestingComponenetService/TestingComponenetService.iml" filepath="$PROJECT_DIR$/Componenet/TestingComponenetService/TestingComponenetService.iml" />
+    </modules>
+  </component>
+</project>
